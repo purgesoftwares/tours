@@ -1,0 +1,17 @@
+.dg-arrange-table-rows-drag-icon{
+	background-image: url('../images/dg-arrange-table-rows.gif');
+	background-repeat: repeat-y;
+	cursor: move;
+}
+
+/* Container used while dragging */
+.dg-arrange-table-rows-container{
+	background-color: #FFF;
+}
+
+.dg-arrange-table-rows-insertion-marker{
+	width:7px;
+	height:10px;
+	background-image:url('../images/insert.gif');
+	background-repeat:no-repeat;
+}

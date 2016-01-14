@@ -1,0 +1,150 @@
+/*!
+ * Bootstrap v2.3.2
+ *
+ * Copyright 2012 Twitter, Inc
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Designed and built with all the love in the world @twitter by @mdo and @fat.
+ */
+
+body{padding-bottom:40px !important; min-height:100%; height:auto !important;}
+
+#menu_width {
+    margin-left: 60px;
+    width: 400px;
+}
+.week_row {
+    width: 17%;
+    height: 10px;
+	padding: 0px !important;
+}
+#availability_div1 {
+	padding: 0px !important;
+}
+.mainTable {
+	padding: 0px !important;
+}
+.weekday {
+    clear: both;
+}
+
+.weekday dt {
+    clear: both;
+    float: left;
+    font-size: 11px;
+    font-weight: normal;
+    text-transform: uppercase;
+    width: 61px;
+}
+
+.weekday dd {
+    margin-left: 50px;
+}
+
+
+.weekday dd ul {
+    margin: 0;
+    padding: 0;
+    width: 105%;
+}
+
+.timebox li {
+    cursor: pointer;
+}
+.sc_menu li {
+    color: #000000;
+    display: block;
+    float: left;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 0 19px;
+}
+.li_color_and_size {
+    background-color: #CCCCCC;
+    border: 1px solid #FFFFFF;
+    cursor: pointer;
+    width: 23px;
+}
+
+.timebox li {
+    cursor: pointer;
+}
+.sc_menu li {
+    color: #000000;
+    display: block;
+    float: left;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 0 19px;
+}
+.li_color_and_size_availability {
+    background-color: #9EF09E;
+    border: 1px solid #FFFFFF;
+    cursor: pointer;
+    height: 21px;
+    width: 0;
+}
+	
+
+.leftMenu{list-style:none; margin:20px 0 0; padding:0;}
+.leftMenu > li > a{color: #222;
+    display: block;
+    overflow: hidden;
+    padding: 4px 18px;
+    position: relative;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+	font-size:14px;
+	}
+.leftMenu ul{list-style:none; margin:0 0; padding:0 0; display:none; border-color:#999;  border-left: none; left: 100%; top:0;}
+.leftMenu  li{clear:both; position:relative;}
+.leftMenu li .icon-angle-down{position:absolute; top:7px; left:5px; display:none; font-size:12px;}
+.leftMenu li.has_menu:hover > a .icon-angle-down{display:block;}
+.leftMenu ul > li > a{color: #444;
+    display: block;
+    overflow: hidden;
+    padding: 1px 18px;
+	font-size:13px;
+    position: relative;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;}
+	
+.leftMenu ul.dropdown-menu li > a{padding:4px 15px;}
+.leftMenu li.has_menu > a{color:#222;}
+.leftMenu li.has_menu > ul{padding-left:10px;}
+.leftMenu li.has_menu ul > li.dropdown > a:after {
+  border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #999999;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  content: " ";
+  position: absolute;
+  right: 2px;
+  top: 10px;
+  width: 5px;
+}
+.leftMenu li.has_menu ul > li.dropdown:hover > .dropdown-menu{display:block;}
+#navigation ul.main-nav > li > ul > li.dropdown:hover > .dropdown-menu{display:block; border-top: 2px solid #368EE0; left:100%; top:0;}
+
+#navigation ul.main-nav li.dropdown > a i.icon-angle-down{ position: absolute; right: 8px; top: 8px;}
+
+.formColHalfsection{clear:both; }
+.fhcolm{float:left; width:48%; margin-left:2%;}
+#footer {
+  border-top: 2px solid #AAAAAA;
+  bottom: 0;
+  font-size: 12px;
+  left: 0;
+  position: fixed;
+  right: 0;
+  text-align: center;
+}
+
+@media (max-width:1020px){
+.fhcolm{float:left; width:100%; margin-left:0%;}
+}
+
+.login .wrapper .login-body p{padding:5px 5px 5px 30px; }
+div.pagination span{ border:1px solid #ccc; padding: 10px; }

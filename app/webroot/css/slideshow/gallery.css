@@ -1,0 +1,142 @@
+.fill {
+    top: 40px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    width: auto;
+    height: auto;
+}
+.navbar .brand {
+    padding: 10px;
+}
+.navbar-fixed-top {
+    margin-bottom: 0px!important;
+    position:static!important;
+}
+.customBrand {
+ 
+    font-size: 16px!important;
+    line-height: 18px!important;
+/*    padding: 11.5px 20px!important; */
+}
+
+body {
+    background-color: #EFF0F3!important;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
+.navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+}
+
+a.social {
+    float:left!important;
+    margin-left: 0px!important;
+    margin-right: 10px!important;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+    margin-top:22px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+    transition: color 0.2s ease-in-out 0s;
+    color: #666666;
+}
+a:hover.social {
+text-decoration: none;
+}
+
+@media (min-width: 1px) and (max-width: 767px) {
+
+    .nav-collapse .nav > li.socialBar {
+        float: left;
+        padding-left:10px;
+    }
+    div.socialBar {
+        float: left;
+        display: block;
+        height: 30px;
+        margin-bottom: 10px;
+       margin-left:15px;
+        width:100%;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 979px) {
+    .navbar .nav > li > a {
+        padding: 10px 7px;
+    }
+    .nav-collapse .nav > li.socialBar {
+        float: right;
+        width:100%;
+        padding-left:10px;
+    }
+    div.socialBar {
+        float:right;
+        display: block;
+        height: 30px;
+        margin-bottom: 10px;
+        margin-left:15px;
+        width:100%;
+    }
+}
+@media (min-width: 979px) and (max-width: 1199px) {
+    .nav-collapse .nav > li.socialBar {
+        float: right;
+    }
+    div.socialBar {
+        float:right;
+    }
+    .navbar .nav > li > a {
+        padding: 10px 7px;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    div.socialBar {
+        float:right;
+    }
+    .navbar .nav > li > a {
+        padding: 10px 10px;
+    }
+
+}
+
+div.social a {
+
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+    transition: color 0.2s ease-in-out 0s;
+    color: #666666;
+    float: none;
+
+    text-decoration: none;
+    text-shadow: 0 1px 0 #EEEEEE;
+    color: #777777;
+    float: none;
+
+    text-decoration: none;
+    text-shadow: 0 1px 0 #FFFFFF;
+    display: block;
+}
+
+li.nav-header {
+    color: #666666;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+    font-size: 13px;
+}
+.gallery-thumbnail {
+    height: 100px;
+    width: auto;
+}
+a.website-link {
+    font-size: 13px;
+    text-decoration: underline;
+}
+#header {
+    display:block;
+    position:static!important;
+    height:auto;
+
+}
+

@@ -1,0 +1,3015 @@
+msgid "Please enter a value for email."
+msgstr "Please enter a value for email."
+
+msgid "Please enter username"
+msgstr "Please enter username"
+
+msgid "Please enter password"
+msgstr "Please enter password"
+
+msgid "This Email is Not Subscribed"
+msgstr "This Email is Not Subscribed"
+
+msgid "Please Choose subscride/unsubscribe."
+msgstr "Please Choose subscride/unsubscribe."
+
+msgid "Please enter email"
+msgstr "Please enter email"
+
+msgid "This Email is already Subscribed."
+msgstr "This Email is already Subscribed."
+
+msgid "Please enter a value for name."
+msgstr "Please enter a value for name."
+
+msgid "Please enter a value for description."
+msgstr "Please enter a value for description."
+
+msgid "Please provide a valid email address."
+msgstr "Please provide a valid email address."
+
+msgid "This email is already exist."
+msgstr "This email is already exist."
+
+msgid "Please enter valid email."
+msgstr "Please enter valid email."
+
+msgid "Please enter a password."
+msgstr "Please enter a password."
+
+msgid "Please select user type."
+msgstr "Please select user type."
+
+msgid "Please enter email address"
+msgstr "Please enter email address"
+
+msgid "Please enter confirm password"
+msgstr "Please enter confirm password"
+
+msgid "password and confirm password must be matched."
+msgstr "password and confirm password must be matched."
+
+msgid "This username already taken"
+msgstr "This username already taken"
+
+msgid "Username must be greater than 3 characters"
+msgstr "Username must be greater than 3 characters"
+
+msgid "Please enter first name"
+msgstr "Please enter first name"
+
+msgid "Please enter last name"
+msgstr "Please enter last name"
+
+msgid "Please enter valid email"
+msgstr "Please enter valid email"
+
+msgid "This email is already registered"
+msgstr "This email is already registered"
+
+msgid "Password must be greater than 5 characters"
+msgstr "Password must be greater than 5 characters"
+
+msgid "Both passwords must match"
+msgstr "Both passwords must match"
+
+msgid "Please enter Name."
+msgstr "Please enter Name."
+
+msgid "Please enter subject."
+msgstr "Please enter subject."
+
+msgid "Please enter email."
+msgstr "Please enter email."
+
+msgid "Please enter your Query."
+msgstr "Please enter your Query."
+
+msgid "Please enter password."
+msgstr "Please enter password."
+
+msgid "Both password did not match."
+msgstr "Both password did not match."
+
+msgid "Please enter first name."
+msgstr "Please enter first name."
+
+msgid "Please enter last name."
+msgstr "Please enter last name."
+
+msgid "Please select user_role_id."
+msgstr "Please select user_role_id."
+
+msgid "Please enter firstname."
+msgstr "Please enter firstname."
+
+msgid "Please enter lastname."
+msgstr "Please enter lastname."
+
+msgid "This email is already registered."
+msgstr "This email is already registered."
+
+msgid "Please select username."
+msgstr "Please select username."
+
+msgid "Please select gender."
+msgstr "Please select gender."
+
+msgid "Please select Date of birth."
+msgstr "Please select Date of birth."
+
+msgid "Please enter contact phone."
+msgstr "Please enter contact phone."
+
+msgid "Please enter mobile phone."
+msgstr "Please enter mobile phone."
+
+msgid "Please enter address."
+msgstr "Please enter address."
+
+msgid "Please enter suburb."
+msgstr "Please enter suburb."
+
+msgid "Please enter city."
+msgstr "Please enter city."
+
+msgid "Please enter region."
+msgstr "Please enter region."
+
+msgid "Please enter postcode."
+msgstr "Please enter postcode."
+
+msgid "Please check this box if you want to proceed."
+msgstr "Please check this box if you want to proceed."
+
+msgid "Please enter confirm password."
+msgstr "Please enter confirm password."
+
+msgid "Both passwords must be same."
+msgstr "Both passwords must be same."
+
+msgid "Please enter name."
+msgstr "Please enter name."
+
+msgid "Please select country."
+msgstr "Please select country."
+
+msgid "Please enter Complete address."
+msgstr "Please enter Complete address."
+
+msgid "Please enter zip code."
+msgstr "Please enter zip code."
+
+msgid "Nif Should be numaric."
+msgstr "Nif Should be numaric."
+
+msgid "Nif should be 9 charactor long."
+msgstr "Nif should be 9 charactor long."
+
+msgid "Please fill this field"
+msgstr "Please fill this field"
+
+msgid "Password and confirm password does not match."
+msgstr "Password and confirm password does not match."
+
+msgid "Please enter old password"
+msgstr "Please enter old password"
+
+msgid "Old Password is incorrect."
+msgstr "Old Password is incorrect."
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Press Releases"
+msgstr "Press Releases"
+
+msgid "Press Detail"
+msgstr "Press Detail"
+
+msgid "Press Title"
+msgstr "Press Title"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Did you really think you are allowed to see that?"
+msgstr "Did you really think you are allowed to see that?"
+
+msgid "Please select a campaign to highlight"
+msgstr "Please select a campaign to highlight"
+
+msgid "Please select a active campaign to highlight"
+msgstr "Please select a active campaign to highlight"
+
+msgid "This campaign does not belongs to you"
+msgstr "This campaign does not belongs to you"
+
+msgid "Invalid Voucher code, Please use a valid voucher code."
+msgstr "Invalid Voucher code, Please use a valid voucher code."
+
+msgid "We could not proceed your payment"
+msgstr "We could not proceed your payment"
+
+msgid "Your campaign is successfully highlighted"
+msgstr "Your campaign is successfully highlighted"
+
+msgid "Web site map"
+msgstr "Web site map"
+
+msgid "Blogs"
+msgstr "Blogs"
+
+msgid "Blog Detail"
+msgstr "Blog Detail"
+
+msgid "<i class="icon-home"> </i>"
+msgstr "<i class="icon-home"> </i>"
+
+msgid "Forgot password"
+msgstr "Forgot password"
+
+msgid "A reset password link has been sent to your email. Please check your email."
+msgstr "A reset password link has been sent to your email. Please check your email."
+
+msgid "This email is not registered with goobond"
+msgstr "This email is not registered with goobond"
+
+msgid "Reset password"
+msgstr "Reset password"
+
+msgid "Your password has been reset successfully. Please login to access your account."
+msgstr "Your password has been reset successfully. Please login to access your account."
+
+msgid "Sorry, you are using wrong link"
+msgstr "Sorry, you are using wrong link"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "Your account successfully registered. Please verify to access your account"
+msgstr "Your account successfully registered. Please verify to access your account"
+
+msgid "Your account is already verified. Please login to access to your account."
+msgstr "Your account is already verified. Please login to access to your account."
+
+msgid "You have successfully verified. Please login to continue"
+msgstr "You have successfully verified. Please login to continue"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "My account"
+msgstr "My account"
+
+msgid "Edit Personal data"
+msgstr "Edit Personal data"
+
+msgid "Invalid Access."
+msgstr "Invalid Access."
+
+msgid "Customer record has been updated."
+msgstr "Customer record has been updated."
+
+msgid "Change Password"
+msgstr "Change Password"
+
+msgid "Password has been updated"
+msgstr "Password has been updated"
+
+msgid "Error in Password updation"
+msgstr "Error in Password updation"
+
+msgid "Profile has been updated."
+msgstr "Profile has been updated."
+
+msgid "Your account is not verified. Please check you email to verify your account."
+msgstr "Your account is not verified. Please check you email to verify your account."
+
+msgid "Your account is not active."
+msgstr "Your account is not active."
+
+msgid "Your account has been deleted. Please contact to goobond team."
+msgstr "Your account has been deleted. Please contact to goobond team."
+
+msgid "Your request for reactivate your account is already sent to admin. Check again after some time."
+msgstr "Your request for reactivate your account is already sent to admin. Check again after some time."
+
+msgid "Your account has been closed. Please click here to activate"
+msgstr "Your account has been closed. Please click here to activate"
+
+msgid "Click Here"
+msgstr "Click Here"
+
+msgid "Invalid e-mail / password combination. Please try again"
+msgstr "Invalid e-mail / password combination. Please try again"
+
+msgid "Your request has been sent to admin successfully."
+msgstr "Your request has been sent to admin successfully."
+
+msgid "This email does not exist. Check again to process."
+msgstr "This email does not exist. Check again to process."
+
+msgid "Successfully Registered."
+msgstr "Successfully Registered."
+
+msgid "Error In Subscribe! Try Again"
+msgstr "Error In Subscribe! Try Again"
+
+msgid "Invite Friends"
+msgstr "Invite Friends"
+
+msgid "Share Portal"
+msgstr "Share Portal"
+
+msgid "Share Apps"
+msgstr "Share Apps"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "My Preferences"
+msgstr "My Preferences"
+
+msgid "Preferences has been updated"
+msgstr "Preferences has been updated"
+
+msgid "Preferences successfully updated"
+msgstr "Preferences successfully updated"
+
+msgid "Budget manager"
+msgstr "Budget manager"
+
+msgid "Budget Manager successfully updated"
+msgstr "Budget Manager successfully updated"
+
+msgid "Invalid Access.Please Login for add this campaign to inbox"
+msgstr "Invalid Access.Please Login for add this campaign to inbox"
+
+msgid "Campaign successfully added to Inbox"
+msgstr "Campaign successfully added to Inbox"
+
+msgid "Campaign already added in your Inbox"
+msgstr "Campaign already added in your Inbox"
+
+msgid "Partners"
+msgstr "Partners"
+
+msgid "Partner Detail"
+msgstr "Partner Detail"
+
+msgid "My Account"
+msgstr "My Account"
+
+msgid "Close Account"
+msgstr "Close Account"
+
+msgid "My Bonds"
+msgstr "My Bonds"
+
+msgid "You have bonded successfully."
+msgstr "You have bonded successfully."
+
+msgid "You have exceeded your bond limit."
+msgstr "You have exceeded your bond limit."
+
+msgid "You have unbonded successfully."
+msgstr "You have unbonded successfully."
+
+msgid "Recruitment"
+msgstr "Recruitment"
+
+msgid "Recruitments"
+msgstr "Recruitments"
+
+msgid "You have been successfully sent application to us. GOOBOND team will response you shortly."
+msgstr "You have been successfully sent application to us. GOOBOND team will response you shortly."
+
+msgid "Your application sending process is failed. Please try again."
+msgstr "Your application sending process is failed. Please try again."
+
+msgid "No Comments Available For This Product"
+msgstr "No Comments Available For This Product"
+
+msgid "Show More"
+msgstr "Show More"
+
+msgid "Successfully Subscribed to Newsletter."
+msgstr "Successfully Subscribed to Newsletter."
+
+msgid "Please fill the form with appropriate value."
+msgstr "Please fill the form with appropriate value."
+
+msgid "Partner News"
+msgstr "Partner News"
+
+msgid "Customer Newsletter"
+msgstr "Customer Newsletter"
+
+msgid "Successfully Unsubscribed to Newsletter."
+msgstr "Successfully Unsubscribed to Newsletter."
+
+msgid "Error In Unsubscribe! Try Again"
+msgstr "Error In Unsubscribe! Try Again"
+
+msgid "News"
+msgstr "News"
+
+msgid "News Detail"
+msgstr "News Detail"
+
+msgid "To complete your order Go Back to ".Configure::read('Site.title"
+msgstr "To complete your order Go Back to ".Configure::read('Site.title"
+
+msgid "To complete your order Go Back to Luxby"
+msgstr "To complete your order Go Back to Luxby"
+
+msgid "First page"
+msgstr "First page"
+
+msgid "Previous page"
+msgstr "Previous page"
+
+msgid "Next page"
+msgstr "Next page"
+
+msgid "Last page"
+msgstr "Last page"
+
+msgid "<<"
+msgstr "<<"
+
+msgid "&laquo;"
+msgstr "&laquo;"
+
+msgid "&raquo;"
+msgstr "&raquo;"
+
+msgid ">>"
+msgstr ">>"
+
+msgid "Newer"
+msgstr "Newer"
+
+msgid "Older"
+msgstr "Older"
+
+msgid "Pages"
+msgstr "Pages"
+
+msgid "Something went wrong. Please try again!"
+msgstr "Something went wrong. Please try again!"
+
+msgid "Company"
+msgstr "Company"
+
+msgid "Who we are"
+msgstr "Who we are"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Social Responsibility"
+msgstr "Social Responsibility"
+
+msgid "Press Release"
+msgstr "Press Release"
+
+msgid "Contacts"
+msgstr "Contacts"
+
+msgid "Recruitment/Jobs"
+msgstr "Recruitment/Jobs"
+
+msgid "Web site/portal"
+msgstr "Web site/portal"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Start now(or Registration)"
+msgstr "Start now(or Registration)"
+
+msgid "How it works"
+msgstr "How it works"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "How to subscribe"
+msgstr "How to subscribe"
+
+msgid "FAQs"
+msgstr "FAQs"
+
+msgid "Data protection"
+msgstr "Data protection"
+
+msgid "Terms and conditions"
+msgstr "Terms and conditions"
+
+msgid "Prtners"
+msgstr "Prtners"
+
+msgid "Partner list"
+msgstr "Partner list"
+
+msgid "Being a partner"
+msgstr "Being a partner"
+
+msgid "Pricing"
+msgstr "Pricing"
+
+msgid "Start now (or Registration)"
+msgstr "Start now (or Registration)"
+
+msgid "Partner registration"
+msgstr "Partner registration"
+
+msgid "Partner login"
+msgstr "Partner login"
+
+msgid "Follow us"
+msgstr "Follow us"
+
+msgid "Like us on facebook"
+msgstr "Like us on facebook"
+
+msgid "Follow on Us twitter"
+msgstr "Follow on Us twitter"
+
+msgid "Follow on Us Google+"
+msgstr "Follow on Us Google+"
+
+msgid "Follow on Us Linkedin"
+msgstr "Follow on Us Linkedin"
+
+msgid "goobond"
+msgstr "goobond"
+
+msgid "Subscribe newsletter"
+msgstr "Subscribe newsletter"
+
+msgid "Email Address"
+msgstr "Email Address"
+
+msgid "Go"
+msgstr "Go"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Start now"
+msgstr "Start now"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Your email"
+msgstr "Your email"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Remember Me"
+msgstr "Remember Me"
+
+msgid "Forgot Password"
+msgstr "Forgot Password"
+
+msgid "Login with"
+msgstr "Login with"
+
+msgid "GOOBOND"
+msgstr "GOOBOND"
+
+msgid "tell me more"
+msgstr "tell me more"
+
+msgid "how it works"
+msgstr "how it works"
+
+msgid "Profile"
+msgstr "Profile"
+
+msgid "Edit personal data"
+msgstr "Edit personal data"
+
+msgid "Change password"
+msgstr "Change password"
+
+msgid "Close account"
+msgstr "Close account"
+
+msgid "Preferences"
+msgstr "Preferences"
+
+msgid "Store Manager"
+msgstr "Store Manager"
+
+msgid "Bonds"
+msgstr "Bonds"
+
+msgid "Bonded users"
+msgstr "Bonded users"
+
+msgid "Special campaigns"
+msgstr "Special campaigns"
+
+msgid "Campaign Manager"
+msgstr "Campaign Manager"
+
+msgid "Campaigns"
+msgstr "Campaigns"
+
+msgid "Campaigns History"
+msgstr "Campaigns History"
+
+msgid "Social Media"
+msgstr "Social Media"
+
+msgid "Share portal"
+msgstr "Share portal"
+
+msgid "Read More"
+msgstr "Read More"
+
+msgid "Read more"
+msgstr "Read more"
+
+msgid "See more news"
+msgstr "See more news"
+
+msgid "Remove from Inbox"
+msgstr "Remove from Inbox"
+
+msgid "Add to Inbox"
+msgstr "Add to Inbox"
+
+msgid "MAP"
+msgstr "MAP"
+
+msgid "FEED"
+msgstr "FEED"
+
+msgid "SLIDES"
+msgstr "SLIDES"
+
+msgid "Search a campaign"
+msgstr "Search a campaign"
+
+msgid "advanced"
+msgstr "advanced"
+
+msgid "search"
+msgstr "search"
+
+msgid "gift"
+msgstr "gift"
+
+msgid "lacoste"
+msgstr "lacoste"
+
+msgid "like_location"
+msgstr "like_location"
+
+msgid "img2"
+msgstr "img2"
+
+msgid "Generate"
+msgstr "Generate"
+
+msgid "See on Map"
+msgstr "See on Map"
+
+msgid "categories"
+msgstr "categories"
+
+msgid "Title decima et quinta decima eodem modo typi qui nunc nobis videntur parum."
+msgstr "Title decima et quinta decima eodem modo typi qui nunc nobis videntur parum."
+
+msgid "read more"
+msgstr "read more"
+
+msgid "268"
+msgstr "268"
+
+msgid "Title decima et quinta decima eodem modo typi qui nunc nobis videntur parum"
+msgstr "Title decima et quinta decima eodem modo typi qui nunc nobis videntur parum"
+
+msgid " Title decima et quinta decima eodem modo typi qui nunc nobis videntur parum"
+msgstr " Title decima et quinta decima eodem modo typi qui nunc nobis videntur parum"
+
+msgid "see more relateed campaigns"
+msgstr "see more relateed campaigns"
+
+msgid "My comments"
+msgstr "My comments"
+
+msgid "My ratings"
+msgstr "My ratings"
+
+msgid "Budget Manager"
+msgstr "Budget Manager"
+
+msgid "My Vouchers"
+msgstr "My Vouchers"
+
+msgid "Inbox"
+msgstr "Inbox"
+
+msgid "Promo Feed"
+msgstr "Promo Feed"
+
+msgid "General feeds"
+msgstr "General feeds"
+
+msgid "New partner feeds"
+msgstr "New partner feeds"
+
+msgid "Invite friends"
+msgstr "Invite friends"
+
+msgid "Mobile applications"
+msgstr "Mobile applications"
+
+msgid "Campaign"
+msgstr "Campaign"
+
+msgid "How It Works"
+msgstr "How It Works"
+
+msgid "Partner List"
+msgstr "Partner List"
+
+msgid "Latest Posts"
+msgstr "Latest Posts"
+
+msgid "Posted by"
+msgstr "Posted by"
+
+msgid "on"
+msgstr "on"
+
+msgid "comments"
+msgstr "comments"
+
+msgid "See more posts"
+msgstr "See more posts"
+
+msgid "Advance Search"
+msgstr "Advance Search"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Select Category"
+msgstr "Select Category"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Select Country"
+msgstr "Select Country"
+
+msgid "District"
+msgstr "District"
+
+msgid "Select District"
+msgstr "Select District"
+
+msgid "County"
+msgstr "County"
+
+msgid "Select County"
+msgstr "Select County"
+
+msgid "Price"
+msgstr "Price"
+
+msgid "From"
+msgstr "From"
+
+msgid "To"
+msgstr "To"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Advertising"
+msgstr "Advertising"
+
+msgid "You are in"
+msgstr "You are in"
+
+msgid "Hello Block"
+msgstr "Hello Block"
+
+msgid "some text"
+msgstr "some text"
+
+msgid "Legentis in iis qui facit eorum del riclaritatem Investigationes selrium demonstraverunt lectores legere me. Quinta decima eodem modotypi qui nunc nobis videntur parumclari fiant sollemnes? Ut wisi enimad minim veniam quis nostrud serexerci tation ullamcorper suscipit lobortis nisl ut aliquip."
+msgstr "Legentis in iis qui facit eorum del riclaritatem Investigationes selrium demonstraverunt lectores legere me. Quinta decima eodem modotypi qui nunc nobis videntur parumclari fiant sollemnes? Ut wisi enimad minim veniam quis nostrud serexerci tation ullamcorper suscipit lobortis nisl ut aliquip."
+
+msgid "Elit sed diam nonummy nibh, bleour euismod tincidunt ut."
+msgstr "Elit sed diam nonummy nibh, bleour euismod tincidunt ut."
+
+msgid "recent posts"
+msgstr "recent posts"
+
+msgid "Quam nunc putamus parum"
+msgstr "Quam nunc putamus parum"
+
+msgid "Acula quarta decima. Ut wisi"
+msgstr "Acula quarta decima. Ut wisi"
+
+msgid "Axerci tation ullamcorper"
+msgstr "Axerci tation ullamcorper"
+
+msgid "Ossim assum typi non, habent"
+msgstr "Ossim assum typi non, habent"
+
+msgid "Et quinta decima eodem modo"
+msgstr "Et quinta decima eodem modo"
+
+msgid "Insitam. iolore te feugait nulla"
+msgstr "Insitam. iolore te feugait nulla"
+
+msgid "recent comments"
+msgstr "recent comments"
+
+msgid "Comment 1"
+msgstr "Comment 1"
+
+msgid "Comment 2"
+msgstr "Comment 2"
+
+msgid "Comment 3"
+msgstr "Comment 3"
+
+msgid "Comment 4"
+msgstr "Comment 4"
+
+msgid "Comment 5"
+msgstr "Comment 5"
+
+msgid "Comment 6"
+msgstr "Comment 6"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "archives"
+msgstr "archives"
+
+msgid "Archives lorem ipsum"
+msgstr "Archives lorem ipsum"
+
+msgid "hot links"
+msgstr "hot links"
+
+msgid "Very weak"
+msgstr "Very weak"
+
+msgid "Weak"
+msgstr "Weak"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Strong"
+msgstr "Strong"
+
+msgid "Very strong"
+msgstr "Very strong"
+
+msgid "Minimum number of characters is"
+msgstr "Minimum number of characters is"
+
+msgid "Unsafe password word"
+msgstr "Unsafe password word"
+
+msgid "Too short"
+msgstr "Too short"
+
+msgid "General Details"
+msgstr "General Details"
+
+msgid "First Name"
+msgstr "First Name"
+
+msgid "Last Name"
+msgstr "Last Name"
+
+msgid "Gender"
+msgstr "Gender"
+
+msgid "Date Of Birth"
+msgstr "Date Of Birth"
+
+msgid "Login Details"
+msgstr "Login Details"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+msgid "Contact Details"
+msgstr "Contact Details"
+
+msgid "Contact phone"
+msgstr "Contact phone"
+
+msgid "Mobile phone"
+msgstr "Mobile phone"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "Suburb"
+msgstr "Suburb"
+
+msgid "City"
+msgstr "City"
+
+msgid "Closest town"
+msgstr "Closest town"
+
+msgid "Post Code"
+msgstr "Post Code"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "social media"
+msgstr "social media"
+
+msgid "share portal"
+msgstr "share portal"
+
+msgid "Share on Facebook"
+msgstr "Share on Facebook"
+
+msgid "Share on twitter"
+msgstr "Share on twitter"
+
+msgid "Share on linked in"
+msgstr "Share on linked in"
+
+msgid "Share on google+"
+msgstr "Share on google+"
+
+msgid "Back To Login"
+msgstr "Back To Login"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Find your post Code"
+msgstr "Find your post Code"
+
+msgid "Membership is limited to residents of New Zealand and Australia"
+msgstr "Membership is limited to residents of New Zealand and Australia"
+
+msgid "By Ticking this I accept ServiceDeals.com�s"
+msgstr "By Ticking this I accept ServiceDeals.com�s"
+
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
+
+msgid "Join Service Deal"
+msgstr "Join Service Deal"
+
+msgid "Old Password"
+msgstr "Old Password"
+
+msgid "New Password"
+msgstr "New Password"
+
+msgid "Save Changes"
+msgstr "Save Changes"
+
+msgid "partners"
+msgstr "partners"
+
+msgid "list"
+msgstr "list"
+
+msgid "grid"
+msgstr "grid"
+
+msgid "ON"
+msgstr "ON"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Are you sure you want to delete this comment?"
+msgstr "Are you sure you want to delete this comment?"
+
+msgid "Confirmation"
+msgstr "Confirmation"
+
+msgid "edit personal data"
+msgstr "edit personal data"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Genre"
+msgstr "Genre"
+
+msgid "Female"
+msgstr "Female"
+
+msgid "Male"
+msgstr "Male"
+
+msgid "Postal Code"
+msgstr "Postal Code"
+
+msgid "Zip Code"
+msgstr "Zip Code"
+
+msgid "Please enter valid nif"
+msgstr "Please enter valid nif"
+
+msgid "my bonds"
+msgstr "my bonds"
+
+msgid "bonded users"
+msgstr "bonded users"
+
+msgid "users with + vouchers"
+msgstr "users with + vouchers"
+
+msgid "Unbond"
+msgstr "Unbond"
+
+msgid "User"
+msgstr "User"
+
+msgid "mobile applications"
+msgstr "mobile applications"
+
+msgid "bonded partners"
+msgstr "bonded partners"
+
+msgid "partners with + vouchers"
+msgstr "partners with + vouchers"
+
+msgid "partners with + exclusives"
+msgstr "partners with + exclusives"
+
+msgid "View"
+msgstr "View"
+
+msgid "Partner"
+msgstr "Partner"
+
+msgid "Bond"
+msgstr "Bond"
+
+msgid "profile"
+msgstr "profile"
+
+msgid "Member since"
+msgstr "Member since"
+
+msgid "Preference Category"
+msgstr "Preference Category"
+
+msgid "No Preference Found !"
+msgstr "No Preference Found !"
+
+msgid "Preference Brands"
+msgstr "Preference Brands"
+
+msgid "Last vouchers generated"
+msgstr "Last vouchers generated"
+
+msgid "Campaign Name"
+msgstr "Campaign Name"
+
+msgid "Are you sure you want to Activate this voucher?"
+msgstr "Are you sure you want to Activate this voucher?"
+
+msgid "Click here to Activate."
+msgstr "Click here to Activate."
+
+msgid "Activate"
+msgstr "Activate"
+
+msgid "Are you sure you want to Cancel this voucher?"
+msgstr "Are you sure you want to Cancel this voucher?"
+
+msgid "Click here to Cancel."
+msgstr "Click here to Cancel."
+
+msgid "No vouchers available."
+msgstr "No vouchers available."
+
+msgid "Invite"
+msgstr "Invite"
+
+msgid "No"
+msgstr "No"
+
+msgid "Goobond is Great!"
+msgstr "Goobond is Great!"
+
+msgid "No friends found"
+msgstr "No friends found"
+
+msgid "Invite Friends From Facebook"
+msgstr "Invite Friends From Facebook"
+
+msgid "close account"
+msgstr "close account"
+
+msgid "i’m agree, close my account"
+msgstr "i’m agree, close my account"
+
+msgid "My Rating"
+msgstr "My Rating"
+
+msgid "rating"
+msgstr "rating"
+
+msgid "No Rating Found !"
+msgstr "No Rating Found !"
+
+msgid "see more comments"
+msgstr "see more comments"
+
+msgid "Country:"
+msgstr "Country:"
+
+msgid "District:"
+msgstr "District:"
+
+msgid "County:"
+msgstr "County:"
+
+msgid "City:"
+msgstr "City:"
+
+msgid "Address:"
+msgstr "Address:"
+
+msgid "Postal Code:"
+msgstr "Postal Code:"
+
+msgid "Latitude/Longitude:"
+msgstr "Latitude/Longitude:"
+
+msgid "NIF:"
+msgstr "NIF:"
+
+msgid "Your Password"
+msgstr "Your Password"
+
+msgid "Partner Address:"
+msgstr "Partner Address:"
+
+msgid "Email:"
+msgstr "Email:"
+
+msgid "Phone:"
+msgstr "Phone:"
+
+msgid "URL:"
+msgstr "URL:"
+
+msgid "active campaigns"
+msgstr "active campaigns"
+
+msgid "stores"
+msgstr "stores"
+
+msgid "Subcategories"
+msgstr "Subcategories"
+
+msgid "Select Subcategory"
+msgstr "Select Subcategory"
+
+msgid "Brands"
+msgstr "Brands"
+
+msgid "Select Brand"
+msgstr "Select Brand"
+
+msgid "Select SubCategory"
+msgstr "Select SubCategory"
+
+msgid "budget manager"
+msgstr "budget manager"
+
+msgid "Budget"
+msgstr "Budget"
+
+msgid "No preferences added. Please Add Preferences"
+msgstr "No preferences added. Please Add Preferences"
+
+msgid "helps you to"
+msgstr "helps you to"
+
+msgid "Bond & Interact"
+msgstr "Bond & Interact"
+
+msgid "with"
+msgstr "with"
+
+msgid "your favorite local businesses & brands"
+msgstr "your favorite local businesses & brands"
+
+msgid "Register user"
+msgstr "Register user"
+
+msgid "Register partner"
+msgstr "Register partner"
+
+msgid "It's free and always will be."
+msgstr "It's free and always will be."
+
+msgid "Email (User ID)"
+msgstr "Email (User ID)"
+
+msgid "Register now"
+msgstr "Register now"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "NIF"
+msgstr "NIF"
+
+msgid "Login user"
+msgstr "Login user"
+
+msgid "Login partner"
+msgstr "Login partner"
+
+msgid "Name *"
+msgstr "Name *"
+
+msgid "Email *"
+msgstr "Email *"
+
+msgid "Adress "
+msgstr "Adress "
+
+msgid "Latitude/Longitude"
+msgstr "Latitude/Longitude"
+
+msgid "Get Latitude/Longitude"
+msgstr "Get Latitude/Longitude"
+
+msgid "Nif"
+msgstr "Nif"
+
+msgid "News Date"
+msgstr "News Date"
+
+msgid "new"
+msgstr "new"
+
+msgid "No Campaign found"
+msgstr "No Campaign found"
+
+msgid "No Video found"
+msgstr "No Video found"
+
+msgid "Faq"
+msgstr "Faq"
+
+msgid "Recruitments / Jobs"
+msgstr "Recruitments / Jobs"
+
+msgid "View Detail"
+msgstr "View Detail"
+
+msgid "Apply This Job"
+msgstr "Apply This Job"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "CV"
+msgstr "CV"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "If can’t find your answers ?"
+msgstr "If can’t find your answers ?"
+
+msgid "Name: *"
+msgstr "Name: *"
+
+msgid "Email: *"
+msgstr "Email: *"
+
+msgid "Subject:*"
+msgstr "Subject:*"
+
+msgid "Query: *"
+msgstr "Query: *"
+
+msgid "Highlight Campaign"
+msgstr "Highlight Campaign"
+
+msgid "Use Goobond Voucher"
+msgstr "Use Goobond Voucher"
+
+msgid "Payment Method"
+msgstr "Payment Method"
+
+msgid "blog"
+msgstr "blog"
+
+msgid "Comment"
+msgstr "Comment"
+
+msgid "at"
+msgstr "at"
+
+msgid "keyword 1, keyword 2, keyword 3, keyword 4, keyword 5"
+msgstr "keyword 1, keyword 2, keyword 3, keyword 4, keyword 5"
+
+msgid "Your comment posted successfully."
+msgstr "Your comment posted successfully."
+
+msgid "Your comment post has been failed. Please try again."
+msgstr "Your comment post has been failed. Please try again."
+
+msgid "This field is required."
+msgstr "This field is required."
+
+msgid "Please enter a value for country."
+msgstr "Please enter a value for country."
+
+msgid "Please enter a value for district."
+msgstr "Please enter a value for district."
+
+msgid "Please enter a value for county."
+msgstr "Please enter a value for county."
+
+msgid "Please enter a value for address."
+msgstr "Please enter a value for address."
+
+msgid "Please enter a value for city."
+msgstr "Please enter a value for city."
+
+msgid "Please enter a value for lat & long."
+msgstr "Please enter a value for lat & long."
+
+msgid "Please enter a value for mobile."
+msgstr "Please enter a value for mobile."
+
+msgid "Please enter a value for zipcode."
+msgstr "Please enter a value for zipcode."
+
+msgid "Store Detail"
+msgstr "Store Detail"
+
+msgid "Stores"
+msgstr "Stores"
+
+msgid "Add Store"
+msgstr "Add Store"
+
+msgid "Store has been added."
+msgstr "Store has been added."
+
+msgid "Store not be added."
+msgstr "Store not be added."
+
+msgid "Edit Store"
+msgstr "Edit Store"
+
+msgid "No ID received"
+msgstr "No ID received"
+
+msgid "edit my store"
+msgstr "edit my store"
+
+msgid "Portuguese"
+msgstr "Portuguese"
+
+msgid "English"
+msgstr "English"
+
+msgid "Spanish"
+msgstr "Spanish"
+
+msgid "Store Name"
+msgstr "Store Name"
+
+msgid "Store Email"
+msgstr "Store Email"
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "Site Url"
+msgstr "Site Url"
+
+msgid "Mobile"
+msgstr "Mobile"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Publish"
+msgstr "Publish"
+
+msgid "Please enter valid zipcode."
+msgstr "Please enter valid zipcode."
+
+msgid "my stores"
+msgstr "my stores"
+
+msgid "add store"
+msgstr "add store"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Are you sure you want to delete this store?"
+msgstr "Are you sure you want to delete this store?"
+
+msgid "Partner Address"
+msgstr "Partner Address"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "store"
+msgstr "store"
+
+msgid "Active Campaigns"
+msgstr "Active Campaigns"
+
+msgid "Map"
+msgstr "Map"
+
+msgid "see				more relateed campaigns"
+msgstr "see				more relateed campaigns"
+
+msgid "add my store"
+msgstr "add my store"
+
+msgid "Searched Result"
+msgstr "Searched Result"
+
+msgid "Campaign Detail"
+msgstr "Campaign Detail"
+
+msgid "This Campaign no more available"
+msgstr "This Campaign no more available"
+
+msgid "General Promo feeds"
+msgstr "General Promo feeds"
+
+msgid "New partners Promo feeds"
+msgstr "New partners Promo feeds"
+
+msgid "Campaign history"
+msgstr "Campaign history"
+
+msgid "Add Campaign"
+msgstr "Add Campaign"
+
+msgid "has been added."
+msgstr "has been added."
+
+msgid "not be added."
+msgstr "not be added."
+
+msgid "Edit Campaign"
+msgstr "Edit Campaign"
+
+msgid "has been updated."
+msgstr "has been updated."
+
+msgid "not be updated."
+msgstr "not be updated."
+
+msgid "Please select a campaign to activate"
+msgstr "Please select a campaign to activate"
+
+msgid "Activate Campaign"
+msgstr "Activate Campaign"
+
+msgid "Please select a valid campaign to active"
+msgstr "Please select a valid campaign to active"
+
+msgid "Your campaign is successfully Activated"
+msgstr "Your campaign is successfully Activated"
+
+msgid "Select state"
+msgstr "Select state"
+
+msgid "Select city"
+msgstr "Select city"
+
+msgid "Yes Continue"
+msgstr "Yes Continue"
+
+msgid "Generate Report"
+msgstr "Generate Report"
+
+msgid "Generate PDF"
+msgstr "Generate PDF"
+
+msgid "Search By Title"
+msgstr "Search By Title"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Text Block 1"
+msgstr "Text Block 1"
+
+msgid "Text Block 2"
+msgstr "Text Block 2"
+
+msgid "Text Block 3"
+msgstr "Text Block 3"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Created"
+msgstr "Created"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Are you sure you want to Deny this news?"
+msgstr "Are you sure you want to Deny this news?"
+
+msgid "Click here to Deny."
+msgstr "Click here to Deny."
+
+msgid "Deny"
+msgstr "Deny"
+
+msgid "Are you sure you want to Approve this news?"
+msgstr "Are you sure you want to Approve this news?"
+
+msgid "Click here to Approve."
+msgstr "Click here to Approve."
+
+msgid "Approve"
+msgstr "Approve"
+
+msgid "No Result Found"
+msgstr "No Result Found"
+
+msgid "View Pending News"
+msgstr "View Pending News"
+
+msgid "Back To Pending News"
+msgstr "Back To Pending News"
+
+msgid "News Title"
+msgstr "News Title"
+
+msgid "Text block 1"
+msgstr "Text block 1"
+
+msgid "Text block 2"
+msgstr "Text block 2"
+
+msgid "Text block 3"
+msgstr "Text block 3"
+
+msgid "News Template"
+msgstr "News Template"
+
+msgid "No template choosen"
+msgstr "No template choosen"
+
+msgid "News PPT"
+msgstr "News PPT"
+
+msgid "Download PPT"
+msgstr "Download PPT"
+
+msgid "News PDF"
+msgstr "News PDF"
+
+msgid "Download PDF"
+msgstr "Download PDF"
+
+msgid "News Image"
+msgstr "News Image"
+
+msgid "News Video"
+msgstr "News Video"
+
+msgid "Add "
+msgstr "Add "
+
+msgid "Back To "
+msgstr "Back To "
+
+msgid "Select User"
+msgstr "Select User"
+
+msgid "Store"
+msgstr "Store"
+
+msgid "Select Store"
+msgstr "Select Store"
+
+msgid "Store Image"
+msgstr "Store Image"
+
+msgid "Choose Image"
+msgstr "Choose Image"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Address & City"
+msgstr "Address & City"
+
+msgid "Phone "
+msgstr "Phone "
+
+msgid "Site URL"
+msgstr "Site URL"
+
+msgid "Mobile "
+msgstr "Mobile "
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Select store"
+msgstr "Select store"
+
+msgid "Promo Feeds"
+msgstr "Promo Feeds"
+
+msgid "all"
+msgstr "all"
+
+msgid "My preferences"
+msgstr "My preferences"
+
+msgid "see more campaigns"
+msgstr "see more campaigns"
+
+msgid "View my campaign"
+msgstr "View my campaign"
+
+msgid "Campaign Email"
+msgstr "Campaign Email"
+
+msgid "IsTarget/Special"
+msgstr "IsTarget/Special"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "Select Targeted Users"
+msgstr "Select Targeted Users"
+
+msgid "HasVoucher"
+msgstr "HasVoucher"
+
+msgid "Select Voucher Type"
+msgstr "Select Voucher Type"
+
+msgid "Select Voucher Limit(In days)"
+msgstr "Select Voucher Limit(In days)"
+
+msgid "LimitTime(In days)"
+msgstr "LimitTime(In days)"
+
+msgid "Price "
+msgstr "Price "
+
+msgid "Select Brands"
+msgstr "Select Brands"
+
+msgid "Product types"
+msgstr "Product types"
+
+msgid "Select Product Types"
+msgstr "Select Product Types"
+
+msgid "Service Types"
+msgstr "Service Types"
+
+msgid "End Date"
+msgstr "End Date"
+
+msgid "Pre-schedule the activation"
+msgstr "Pre-schedule the activation"
+
+msgid "Pre-schedule date"
+msgstr "Pre-schedule date"
+
+msgid "Choose periods"
+msgstr "Choose periods"
+
+msgid "Current Year"
+msgstr "Current Year"
+
+msgid "Please Choose Minutes:"
+msgstr "Please Choose Minutes:"
+
+msgid "Click or Drag on these square boxes to select schedule."
+msgstr "Click or Drag on these square boxes to select schedule."
+
+msgid "Double click to unselect schedule."
+msgstr "Double click to unselect schedule."
+
+msgid "Image(Small format for feed item)"
+msgstr "Image(Small format for feed item)"
+
+msgid "Image(Big format for campaign page)"
+msgstr "Image(Big format for campaign page)"
+
+msgid "Activate campaign"
+msgstr "Activate campaign"
+
+msgid "Activation Start Date"
+msgstr "Activation Start Date"
+
+msgid "Activation End Date"
+msgstr "Activation End Date"
+
+msgid "Activation Days"
+msgstr "Activation Days"
+
+msgid "Price Per Day"
+msgstr "Price Per Day"
+
+msgid "Total Price"
+msgstr "Total Price"
+
+msgid "offer"
+msgstr "offer"
+
+msgid "description"
+msgstr "description"
+
+msgid "Discount/Voucher Description"
+msgstr "Discount/Voucher Description"
+
+msgid "60% Nisl utal"
+msgstr "60% Nisl utal"
+
+msgid "Tation ullamcorper suscipit lobor feugait nulla facilisi nam liber"
+msgstr "Tation ullamcorper suscipit lobor feugait nulla facilisi nam liber"
+
+msgid "Voucher generated"
+msgstr "Voucher generated"
+
+msgid "Save Inbox"
+msgstr "Save Inbox"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Share on Twitter"
+msgstr "Share on Twitter"
+
+msgid "Rating"
+msgstr "Rating"
+
+msgid "related campaigns"
+msgstr "related campaigns"
+
+msgid "my campaign history"
+msgstr "my campaign history"
+
+msgid "Create based on this"
+msgstr "Create based on this"
+
+msgid "Re-activate"
+msgstr "Re-activate"
+
+msgid "No campaigns found"
+msgstr "No campaigns found"
+
+msgid "Are you sure you want to delete this campaign?"
+msgstr "Are you sure you want to delete this campaign?"
+
+msgid "add my campaign"
+msgstr "add my campaign"
+
+msgid "Template"
+msgstr "Template"
+
+msgid "No Template"
+msgstr "No Template"
+
+msgid "Select Service Types"
+msgstr "Select Service Types"
+
+msgid "my campaign"
+msgstr "my campaign"
+
+msgid "add campaign"
+msgstr "add campaign"
+
+msgid "Vouchers"
+msgstr "Vouchers"
+
+msgid "You can select maximum 1 PDF"
+msgstr "You can select maximum 1 PDF"
+
+msgid "You can select maximum 1 PPT"
+msgstr "You can select maximum 1 PPT"
+
+msgid "You can select maximum 1 Video"
+msgstr "You can select maximum 1 Video"
+
+msgid "Add News"
+msgstr "Add News"
+
+msgid "Back To News"
+msgstr "Back To News"
+
+msgid "News Template :"
+msgstr "News Template :"
+
+msgid "Text Block 1:"
+msgstr "Text Block 1:"
+
+msgid "Text Block 2:"
+msgstr "Text Block 2:"
+
+msgid "Text Block 3:"
+msgstr "Text Block 3:"
+
+msgid "PPT:"
+msgstr "PPT:"
+
+msgid "Choose File"
+msgstr "Choose File"
+
+msgid "PPT"
+msgstr "PPT"
+
+msgid "No PPT Available"
+msgstr "No PPT Available"
+
+msgid "PDF:"
+msgstr "PDF:"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "No PDF Available"
+msgstr "No PDF Available"
+
+msgid "Video:"
+msgstr "Video:"
+
+msgid "No Video Available"
+msgstr "No Video Available"
+
+msgid "News Image:"
+msgstr "News Image:"
+
+msgid "Images"
+msgstr "Images"
+
+msgid "No Image Available"
+msgstr "No Image Available"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Inactive"
+msgstr "Inactive"
+
+msgid "Edit my campaign"
+msgstr "Edit my campaign"
+
+msgid "Get Latitude/Longitude for your location"
+msgstr "Get Latitude/Longitude for your location"
+
+msgid "Type in an address"
+msgstr "Type in an address"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Invalid setting for key: Use iso, name, iso3, numcode or printableName."
+msgstr "Invalid setting for key: Use iso, name, iso3, numcode or printableName."
+
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+msgid "Albania"
+msgstr "Albania"
+
+msgid "Algeria"
+msgstr "Algeria"
+
+msgid "American Samoa"
+msgstr "American Samoa"
+
+msgid "Andorra"
+msgstr "Andorra"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Anguilla"
+msgstr "Anguilla"
+
+msgid "Antarctica"
+msgstr "Antarctica"
+
+msgid "Antigua and Barbuda"
+msgstr "Antigua and Barbuda"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Aruba"
+msgstr "Aruba"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+msgid "Bahamas"
+msgstr "Bahamas"
+
+msgid "Bahrain"
+msgstr "Bahrain"
+
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+msgid "Barbados"
+msgstr "Barbados"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Belize"
+msgstr "Belize"
+
+msgid "Benin"
+msgstr "Benin"
+
+msgid "Bermuda"
+msgstr "Bermuda"
+
+msgid "Bhutan"
+msgstr "Bhutan"
+
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia and Herzegovina"
+
+msgid "Botswana"
+msgstr "Botswana"
+
+msgid "Bouvet Island"
+msgstr "Bouvet Island"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "British Indian Ocean Territory"
+msgstr "British Indian Ocean Territory"
+
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "Cambodia"
+msgstr "Cambodia"
+
+msgid "Cameroon"
+msgstr "Cameroon"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+msgid "Cayman Islands"
+msgstr "Cayman Islands"
+
+msgid "Central African Republic"
+msgstr "Central African Republic"
+
+msgid "Chad"
+msgstr "Chad"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "China"
+msgstr "China"
+
+msgid "Christmas Island"
+msgstr "Christmas Island"
+
+msgid "Cocos (Keeling) Islands"
+msgstr "Cocos (Keeling) Islands"
+
+msgid "Colombia"
+msgstr "Colombia"
+
+msgid "Comoros"
+msgstr "Comoros"
+
+msgid "Congo"
+msgstr "Congo"
+
+msgid "Congo, the Democratic Republic of the"
+msgstr "Congo, the Democratic Republic of the"
+
+msgid "Cook Islands"
+msgstr "Cook Islands"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Cote D\'Ivoire"
+msgstr "Cote D\'Ivoire"
+
+msgid "Croatia"
+msgstr "Croatia"
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Cyprus"
+msgstr "Cyprus"
+
+msgid "Czech Republic"
+msgstr "Czech Republic"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "Djibouti"
+msgstr "Djibouti"
+
+msgid "Dominica"
+msgstr "Dominica"
+
+msgid "Dominican Republic"
+msgstr "Dominican Republic"
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Egypt"
+msgstr "Egypt"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Equatorial Guinea"
+msgstr "Equatorial Guinea"
+
+msgid "Eritrea"
+msgstr "Eritrea"
+
+msgid "Estonia"
+msgstr "Estonia"
+
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+msgid "Falkland Islands (Malvinas)"
+msgstr "Falkland Islands (Malvinas)"
+
+msgid "Faroe Islands"
+msgstr "Faroe Islands"
+
+msgid "Fiji"
+msgstr "Fiji"
+
+msgid "Finland"
+msgstr "Finland"
+
+msgid "France"
+msgstr "France"
+
+msgid "French Guiana"
+msgstr "French Guiana"
+
+msgid "French Polynesia"
+msgstr "French Polynesia"
+
+msgid "French Southern Territories"
+msgstr "French Southern Territories"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "Gambia"
+msgstr "Gambia"
+
+msgid "Georgia"
+msgstr "Georgia"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Ghana"
+msgstr "Ghana"
+
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+msgid "Greece"
+msgstr "Greece"
+
+msgid "Greenland"
+msgstr "Greenland"
+
+msgid "Grenada"
+msgstr "Grenada"
+
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+msgid "Guam"
+msgstr "Guam"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guinea"
+msgstr "Guinea"
+
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+msgid "Guyana"
+msgstr "Guyana"
+
+msgid "Haiti"
+msgstr "Haiti"
+
+msgid "Heard Island and Mcdonald Islands"
+msgstr "Heard Island and Mcdonald Islands"
+
+msgid "Holy See (Vatican City State)"
+msgstr "Holy See (Vatican City State)"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Hungary"
+msgstr "Hungary"
+
+msgid "Iceland"
+msgstr "Iceland"
+
+msgid "India"
+msgstr "India"
+
+msgid "Indonesia"
+msgstr "Indonesia"
+
+msgid "Iran, Islamic Republic of"
+msgstr "Iran, Islamic Republic of"
+
+msgid "Iraq"
+msgstr "Iraq"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Jordan"
+msgstr "Jordan"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Kenya"
+msgstr "Kenya"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "Korea, Democratic People\'s Republic of"
+msgstr "Korea, Democratic People\'s Republic of"
+
+msgid "Korea, Republic of"
+msgstr "Korea, Republic of"
+
+msgid "Kuwait"
+msgstr "Kuwait"
+
+msgid "Kyrgyzstan"
+msgstr "Kyrgyzstan"
+
+msgid "Lao People\'s Democratic Republic"
+msgstr "Lao People\'s Democratic Republic"
+
+msgid "Latvia"
+msgstr "Latvia"
+
+msgid "Lebanon"
+msgstr "Lebanon"
+
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgid "Liberia"
+msgstr "Liberia"
+
+msgid "Libyan Arab Jamahiriya"
+msgstr "Libyan Arab Jamahiriya"
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Lithuania"
+msgstr "Lithuania"
+
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+msgid "Macao"
+msgstr "Macao"
+
+msgid "Macedonia, the Former Yugoslav Republic of"
+msgstr "Macedonia, the Former Yugoslav Republic of"
+
+msgid "Madagascar"
+msgstr "Madagascar"
+
+msgid "Malawi"
+msgstr "Malawi"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Maldives"
+msgstr "Maldives"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Malta"
+msgstr "Malta"
+
+msgid "Marshall Islands"
+msgstr "Marshall Islands"
+
+msgid "Martinique"
+msgstr "Martinique"
+
+msgid "Mauritania"
+msgstr "Mauritania"
+
+msgid "Mauritius"
+msgstr "Mauritius"
+
+msgid "Mayotte"
+msgstr "Mayotte"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Micronesia, Federated States of"
+msgstr "Micronesia, Federated States of"
+
+msgid "Moldova, Republic of"
+msgstr "Moldova, Republic of"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Mongolia"
+msgstr "Mongolia"
+
+msgid "Montserrat"
+msgstr "Montserrat"
+
+msgid "Morocco"
+msgstr "Morocco"
+
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgid "Myanmar"
+msgstr "Myanmar"
+
+msgid "Namibia"
+msgstr "Namibia"
+
+msgid "Nauru"
+msgstr "Nauru"
+
+msgid "Nepal"
+msgstr "Nepal"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "Netherlands Antilles"
+msgstr "Netherlands Antilles"
+
+msgid "New Caledonia"
+msgstr "New Caledonia"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "Niger"
+msgstr "Niger"
+
+msgid "Nigeria"
+msgstr "Nigeria"
+
+msgid "Niue"
+msgstr "Niue"
+
+msgid "Norfolk Island"
+msgstr "Norfolk Island"
+
+msgid "Northern Mariana Islands"
+msgstr "Northern Mariana Islands"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "Oman"
+msgstr "Oman"
+
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgid "Palau"
+msgstr "Palau"
+
+msgid "Palestinian Territory, Occupied"
+msgstr "Palestinian Territory, Occupied"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Papua New Guinea"
+msgstr "Papua New Guinea"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Philippines"
+msgstr "Philippines"
+
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+msgid "Qatar"
+msgstr "Qatar"
+
+msgid "Reunion"
+msgstr "Reunion"
+
+msgid "Romania"
+msgstr "Romania"
+
+msgid "Russian Federation"
+msgstr "Russian Federation"
+
+msgid "Rwanda"
+msgstr "Rwanda"
+
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts and Nevis"
+
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre and Miquelon"
+
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent and the Grenadines"
+
+msgid "Samoa"
+msgstr "Samoa"
+
+msgid "San Marino"
+msgstr "San Marino"
+
+msgid "Sao Tome and Principe"
+msgstr "Sao Tome and Principe"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Senegal"
+msgstr "Senegal"
+
+msgid "Serbia and Montenegro"
+msgstr "Serbia and Montenegro"
+
+msgid "Seychelles"
+msgstr "Seychelles"
+
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgid "Singapore"
+msgstr "Singapore"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "Slovenia"
+msgstr "Slovenia"
+
+msgid "Solomon Islands"
+msgstr "Solomon Islands"
+
+msgid "Somalia"
+msgstr "Somalia"
+
+msgid "South Africa"
+msgstr "South Africa"
+
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "South Georgia and the South Sandwich Islands"
+
+msgid "Spain"
+msgstr "Spain"
+
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgid "Sudan"
+msgstr "Sudan"
+
+msgid "Suriname"
+msgstr "Suriname"
+
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard and Jan Mayen"
+
+msgid "Swaziland"
+msgstr "Swaziland"
+
+msgid "Sweden"
+msgstr "Sweden"
+
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgid "Syrian Arab Republic"
+msgstr "Syrian Arab Republic"
+
+msgid "Taiwan, Province of China"
+msgstr "Taiwan, Province of China"
+
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+msgid "Tanzania, United Republic of"
+msgstr "Tanzania, United Republic of"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Tokelau"
+msgstr "Tokelau"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Trinidad and Tobago"
+msgstr "Trinidad and Tobago"
+
+msgid "Tunisia"
+msgstr "Tunisia"
+
+msgid "Turkey"
+msgstr "Turkey"
+
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+msgid "Turks and Caicos Islands"
+msgstr "Turks and Caicos Islands"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "United Arab Emirates"
+msgstr "United Arab Emirates"
+
+msgid "United Kingdom"
+msgstr "United Kingdom"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Viet Nam"
+msgstr "Viet Nam"
+
+msgid "Virgin Islands, British"
+msgstr "Virgin Islands, British"
+
+msgid "Virgin Islands, U.s."
+msgstr "Virgin Islands, U.s."
+
+msgid "Wallis and Futuna"
+msgstr "Wallis and Futuna"
+
+msgid "Western Sahara"
+msgstr "Western Sahara"
+
+msgid "Yemen"
+msgstr "Yemen"
+
+msgid "Zambia"
+msgstr "Zambia"
+
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgid "Invalid argument #1: %s is not a valid %s identifyer."
+msgstr "Invalid argument #1: %s is not a valid %s identifyer."
+
+msgid "Please enter page name."
+msgstr "Please enter page name."
+
+msgid "Please enter page type."
+msgstr "Please enter page type."
+
+msgid "Please enter Page Description."
+msgstr "Please enter Page Description."
+
+msgid "Please enter Meta Description."
+msgstr "Please enter Meta Description."
+
+msgid "Please enter Meta Keywords."
+msgstr "Please enter Meta Keywords."
+
+msgid "Add Deal"
+msgstr "Add Deal"
+
+msgid "Deal"
+msgstr "Deal"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Deals"
+msgstr "Deals"
+
+msgid "A new Deal has been added successfully."
+msgstr "A new Deal has been added successfully."
+
+msgid "Error saving Deal."
+msgstr "Error saving Deal."
+
+msgid "Edit Deals"
+msgstr "Edit Deals"
+
+msgid "Deal has been edited successfully."
+msgstr "Deal has been edited successfully."
+
+msgid "Error in updating Deal."
+msgstr "Error in updating Deal."
+
+msgid "Please upload valid Image."
+msgstr "Please upload valid Image."
+
+msgid "Deal has been deleted."
+msgstr "Deal has been deleted."
+
+msgid "Business"
+msgstr "Business"
+
+msgid "Add Business"
+msgstr "Add Business"
+
+msgid "A new Business has been added successfully."
+msgstr "A new Business has been added successfully."
+
+msgid "Error saving Business."
+msgstr "Error saving Business."
+
+msgid "Edit Business"
+msgstr "Edit Business"
+
+msgid "Business has been edited successfully."
+msgstr "Business has been edited successfully."
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Sub-Category"
+msgstr "Sub-Category"
+
+msgid "Select Suburb"
+msgstr "Select Suburb"
+
+msgid "Back To"
+msgstr "Back To"
+
+msgid "Catagory"
+msgstr "Catagory"
+
+msgid "Sub-catagory"
+msgstr "Sub-catagory"
+
+msgid "Details for Listing Page"
+msgstr "Details for Listing Page"
+
+msgid "Listing Title"
+msgstr "Listing Title"
+
+msgid "Business Name:"
+msgstr "Business Name:"
+
+msgid "Business Address"
+msgstr "Business Address"
+
+msgid "Geo Location"
+msgstr "Geo Location"
+
+msgid "Select Region"
+msgstr "Select Region"
+
+msgid "About Us"
+msgstr "About Us"
+
+msgid "Services Offered"
+msgstr "Services Offered"
+
+msgid "Areas Serviced"
+msgstr "Areas Serviced"
+
+msgid "Availablity"
+msgstr "Availablity"
+
+msgid "Upload Photos"
+msgstr "Upload Photos"
+
+msgid "CONTACT DETAILS (Will be provided to buyer when deal sold)"
+msgstr "CONTACT DETAILS (Will be provided to buyer when deal sold)"
+
+msgid "Contact Person’s Name"
+msgstr "Contact Person’s Name"
+
+msgid "Work Phone"
+msgstr "Work Phone"
+
+msgid "Select Code"
+msgstr "Select Code"
+
+msgid "Personal Phone"
+msgstr "Personal Phone"
+
+msgid "View Deal"
+msgstr "View Deal"
+
+msgid "Deal Title"
+msgstr "Deal Title"
+
+msgid "Deal Type"
+msgstr "Deal Type"
+
+msgid "Select Deal Type"
+msgstr "Select Deal Type"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Quantity/ Stock"
+msgstr "Quantity/ Stock"
+
+msgid "Select Quantity"
+msgstr "Select Quantity"
+
+msgid "Actual Price"
+msgstr "Actual Price"
+
+msgid "Offered Deal Price"
+msgstr "Offered Deal Price"
+
+msgid "Shipping Cost"
+msgstr "Shipping Cost"
+
+msgid "Listing Duration"
+msgstr "Listing Duration"
+
+msgid "Select Listing Duration"
+msgstr "Select Listing Duration"
+
+msgid "SHIPPING DETAILS (Will be provided to buyer when deal sold)"
+msgstr "SHIPPING DETAILS (Will be provided to buyer when deal sold)"
+
+msgid "Shipping Options"
+msgstr "Shipping Options"
+
+msgid "Varification"
+msgstr "Varification"
+
+msgid "Back to results"
+msgstr "Back to results"
+
+msgid "BUY Me"
+msgstr "BUY Me"
+
+msgid "Amount"
+msgstr "Amount"
+
+msgid "Details (eg. Courier Nationwide)"
+msgstr "Details (eg. Courier Nationwide)"
+
+msgid "How would you like to be contacted (Please select from the following Options)"
+msgstr "How would you like to be contacted (Please select from the following Options)"
+
+msgid "Please enter a value for discount."
+msgstr "Please enter a value for discount."
+
+msgid "Please enter a value for code."
+msgstr "Please enter a value for code."
+
+msgid "This code is already exist."
+msgstr "This code is already exist."
+
+msgid "Invalid Access"
+msgstr "Invalid Access"
+
+msgid "Campaign Vouchers"
+msgstr "Campaign Vouchers"
+
+msgid "Please Login first to generate voucher"
+msgstr "Please Login first to generate voucher"
+
+msgid "Voucher has been generated"
+msgstr "Voucher has been generated"
+
+msgid "Voucher not be generated."
+msgstr "Voucher not be generated."
+
+msgid "Voucher"
+msgstr "Voucher"
+
+msgid "Add Vouchers"
+msgstr "Add Vouchers"
+
+msgid "Add Voucher"
+msgstr "Add Voucher"
+
+msgid "Voucher has been added"
+msgstr "Voucher has been added"
+
+msgid "Voucher not be added."
+msgstr "Voucher not be added."
+
+msgid "Edit Voucher"
+msgstr "Edit Voucher"
+
+msgid "View campaign"
+msgstr "View campaign"
+
+msgid "Generate CSV"
+msgstr "Generate CSV"
+
+msgid "User name"
+msgstr "User name"
+
+msgid "Voucher Name"
+msgstr "Voucher Name"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Valid From"
+msgstr "Valid From"
+
+msgid "Valid To"
+msgstr "Valid To"
+
+msgid "Discount"
+msgstr "Discount"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Are you sure you want to inactive this voucher?"
+msgstr "Are you sure you want to inactive this voucher?"
+
+msgid "Click here to inactive."
+msgstr "Click here to inactive."
+
+msgid "Are you sure you want to active this voucher?"
+msgstr "Are you sure you want to active this voucher?"
+
+msgid "Click here to active."
+msgstr "Click here to active."
+
+msgid "Are you sure you want to delete this voucher?"
+msgstr "Are you sure you want to delete this voucher?"
+
+msgid "Click here to delete."
+msgstr "Click here to delete."
+
+msgid "Back To Voucher"
+msgstr "Back To Voucher"
+
+msgid "Voucher Code"
+msgstr "Voucher Code"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Select"
+msgstr "Select"
+
+msgid "Valid"
+msgstr "Valid"
+
+msgid "Discount Type"
+msgstr "Discount Type"
+
+msgid "Unlimited Times"
+msgstr "Unlimited Times"
+
+msgid "Print"
+msgstr "Print"
+
+msgid "my voucher"
+msgstr "my voucher"
+
+msgid "my vouchers"
+msgstr "my vouchers"
+
+msgid "generated vouchers"
+msgstr "generated vouchers"
+
+msgid "active vouchers"
+msgstr "active vouchers"
+
+msgid "validated vouchers"
+msgstr "validated vouchers"
+
+msgid "No vouchers available"
+msgstr "No vouchers available"
+
+msgid "see more generated vouchers"
+msgstr "see more generated vouchers"
+
+msgid "see more active vouchers"
+msgstr "see more active vouchers"
+
+msgid "see more validated vouchers"
+msgstr "see more validated vouchers"
+
+msgid "Search By Email"
+msgstr "Search By Email"
+
+msgid "Search By User"
+msgstr "Search By User"
+
+msgid "Search By code"
+msgstr "Search By code"
+
+msgid "Product Type"
+msgstr "Product Type"
+
+msgid "Campaign vouchers"
+msgstr "Campaign vouchers"
+
+msgid "Are you sure you want to Validate this voucher?"
+msgstr "Are you sure you want to Validate this voucher?"
+
+msgid "Click here to Validate."
+msgstr "Click here to Validate."
+
+msgid "Validate"
+msgstr "Validate"
+
+msgid "Time frame over"
+msgstr "Time frame over"
+
+msgid "Validate Now"
+msgstr "Validate Now"
+
+msgid "Validated"
+msgstr "Validated"
+
+msgid "Are you sure you want to Deny this voucher?"
+msgstr "Are you sure you want to Deny this voucher?"
+
+msgid "Click here to Deny"
+msgstr "Click here to Deny"
+
+msgid "Are you sure you want to Approve this voucher?"
+msgstr "Are you sure you want to Approve this voucher?"
+
+msgid "Click here to Approve"
+msgstr "Click here to Approve"
+

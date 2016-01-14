@@ -1,0 +1,29 @@
+Happy late birthday! I hope all is well. We went through some testing recently and came across a few things. We created a client “Hunter Holm” to test the experience. 
+
+-We tried uploading images as admin to 12345 Main St. and 509 Teal Ridge Ln. in the Hunter Holm profile. Both times upload would reach 100% and nothing would happen after leaving for 1-2 minutes. When “View” was clicked it would show no uploaded files. 
+
+-Editing list notification emails (such as marking a project “Done”) should go to admin email, not client. Client will receive email once gallery is released to them. 
+
+-Feedback should also go to admin email (possible to have checkbox setting “Send notification to assigned photographer?”) <This would send feedback both to admin and assigned photographer. Currently this is by default getting sent to photographer only.
+
+-Based on the above, is it possible (in the admin settings) to add a place to enter email accounts for receipt of “Editing List Notifications” and “Feedback Notifications”?
+
+-Invoice due next day are showing up as past due. I’m not sure if this is because the timezone for admin and client is different.
+
+-Can admin have a timezone selector option for admin in settings? This will be the same timezone for all of admin’s clients as well since they will all be local to admin.
+
+-Currently, client galleries that have been set up requiring payment for access are not being released when admin manually “Releases Now” with an outstanding balance. Admin clicking “Release Now” should override the requirement (balance will still be pending or past-due, even when manually released, until paid).
+
+-Similarly, like “+Add Product”, can we have the same for recipients of invoices and gallery notifications? For instance, we select a main recipient (or add a new one) and the have “+Add Additional Recipient”, allowing multiple people to get emailed on the same invoice or gallery?
+
+-We noticed that the information we input into the scheduler tool isn’t viewable anywhere (such as the agent name, square footage, comments, CBS code, etc) once the event has been scheduled. When we click on the calendar event after creation there is no information that we input other than the time and address. Can we have the details we input visible as well? Either by hovering over or clicking on it?
+
+-When multiple products are added to an order only the contents of the main order are showing up on invoices. We need to have all contents of all products selected visible on the invoice. 
+
+-Global comments for a client are not being populated when selected in the scheduler tool. For instance, when we enter in Global comments on one shoot, when we select that client on another shoot the Global Comments recorded before should be visible.
+
+-Reports are not being generated with data entered. Ran sales and photographer payment reports for the month of November. There was data input for both. 
+
+-Client password recovery is not working. We tried for the main contact and all assigned contacts on the account for Hunter Holm.
+
+-As an admin can we have a place to view/change client password in their profile?

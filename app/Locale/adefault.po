@@ -1,0 +1,371 @@
+msgid "Local"
+msgstr "Local"
+
+msgid "Locales"
+msgstr "Locales"
+
+msgid "Locale"
+msgstr "Locale"
+
+msgid "Local Name"
+msgstr "Local Name"
+
+msgid "Locals"
+msgstr "Locals"
+
+msgid "Home Blocks Position"
+msgstr "Home Blocks Position"
+
+msgid "View Posts"
+msgstr "View Posts"
+
+msgid "Manage Comments"
+msgstr "Manage Comments"
+
+msgid "View Newsletters"
+msgstr "View Newsletters"
+
+msgid "Highlight's"
+msgstr "Highlight's"
+
+msgid "Service Type"
+msgstr "Service Type"
+
+msgid "Manage SEO"
+msgstr "Manage SEO"
+
+msgid "Welcome to GOOBOND"
+msgstr "Welcome to GOOBOND"
+
+msgid "Campaigns Templates"
+msgstr "Campaigns Templates"
+
+msgid "Backoffice Users"
+msgstr "Backoffice Users"
+
+msgid "Closed Accounts"
+msgstr "Closed Accounts"
+
+msgid "Site Settings"
+msgstr "Site Settings"
+
+msgid "Blog Setting"
+msgstr "Blog Setting"
+
+msgid "Map Setting"
+msgstr "Map Setting"
+
+msgid "Payment Settings"
+msgstr "Payment Settings"
+
+msgid "Footer Settings"
+msgstr "Footer Settings"
+
+msgid "Manage Favicon"
+msgstr "Manage Favicon"
+
+msgid "Highlight's setting"
+msgstr "Highlight's setting"
+
+msgid "Paypal Settings"
+msgstr "Paypal Settings"
+
+msgid "EasyPay Settings"
+msgstr "EasyPay Settings"
+
+msgid "View Advertising items"
+msgstr "View Advertising items"
+
+msgid "Advertising settings"
+msgstr "Advertising settings"
+
+msgid "Partner Vouchers"
+msgstr "Partner Vouchers"
+
+msgid "Goobond Voucher"
+msgstr "Goobond Voucher"
+
+msgid "Site Title"
+msgstr "Site Title"
+
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+msgid "Default Campaign On Home Page"
+msgstr "Default Campaign On Home Page"
+
+msgid "Facebook Url"
+msgstr "Facebook Url"
+
+msgid "Twitter Url"
+msgstr "Twitter Url"
+
+msgid "LinkedIn url"
+msgstr "LinkedIn url"
+
+msgid "Youtube Url"
+msgstr "Youtube Url"
+
+msgid "External blog URL"
+msgstr "External blog URL"
+
+msgid "Search text in PT"
+msgstr "Search text in PT"
+
+msgid "No of Latest Blog"
+msgstr "No of Latest Blog"
+
+msgid "No of Latest News"
+msgstr "No of Latest News"
+
+msgid "Show Max Press Release"
+msgstr "Show Max Press Release"
+
+msgid "Tag line in EN"
+msgstr "Tag line in EN"
+
+msgid "Footer code for Google Analytics"
+msgstr "Footer code for Google Analytics"
+
+msgid "Header code for Google Webmaster Tools"
+msgstr "Header code for Google Webmaster Tools"
+
+msgid "Google+  URL"
+msgstr "Google+  URL" 
+
+msgid "Search text in ES"
+msgstr "Search text in ES"
+
+msgid "Search text in EN"
+msgstr "Search text in EN"
+
+msgid "Default Portal Language Code"
+msgstr "Default Portal Language Code"
+
+msgid "Tag line in PT"
+msgstr "Tag line in PT"
+
+msgid "Tag line in ES"
+msgstr "Tag line in ES"
+
+msgid "No of days for New partner"
+msgstr "No of days for New partner"
+
+msgid "Default Voucher Validation Limit (in days)"
+msgstr "Default Voucher Validation Limit (in days)"
+
+msgid "Default Bond Limit"
+msgstr "Default Bond Limit"
+
+msgid "Mark Campaign As New For A Days"
+msgstr "Mark Campaign As New For A Days"
+
+msgid "Map Near Range"
+msgstr "Map Near Range"
+
+msgid "Default Price For activate campaign (per day)"
+msgstr "Default Price For activate campaign (per day)"
+
+msgid "Voucher Limit Of User My Account"
+msgstr "Voucher Limit Of User My Account"
+
+msgid "Side Bar Ad Title"
+msgstr "Side Bar Ad Title"
+
+msgid "Side Bar Ad Text"
+msgstr "Side Bar Ad Text"
+
+msgid "Ending soon period(in days)"
+msgstr "Ending soon period(in days)"
+
+msgid "Ending Soon Text in PT"
+msgstr "Ending Soon Text in PT"
+
+msgid "Ending Soon Text in EN"
+msgstr "Ending Soon Text in EN"
+
+msgid "Ending Soon Text in SP"
+msgstr "Ending Soon Text in SP"
+
+msgid "Flash campaign period(in days)"
+msgstr "Flash campaign period(in days)"
+
+msgid "Flash campaign text in PT"
+msgstr "Flash campaign text in PT"
+
+msgid "Flash campaign text in EN"
+msgstr "Flash campaign text in EN"
+
+msgid "Flash campaign text in SP"
+msgstr "Flash campaign text in SP"
+
+msgid "Default Voucher Cost"
+msgstr "Default Voucher Cost"
+
+msgid "No. of special campaigns for + exclusives"
+msgstr "No. of special campaigns for + exclusives"
+
+msgid "Minimun no of voucher generated for + voucher user targeted"
+msgstr "Minimun no of voucher generated for + voucher user targeted"
+
+msgid "Use External Blog"
+msgstr "Use External Blog"
+
+msgid "External Blog Url"
+msgstr "External Blog Url"
+
+msgid "Map default lat long"
+msgstr "Map default lat long"
+
+msgid "Paypal Account Email-Id"
+msgstr "Paypal Account Email-Id"
+
+msgid "Payment Mode"
+msgstr "Payment Mode"
+
+msgid "Use Paypal"
+msgstr "Use Paypal"
+
+msgid "Use EasyPay"
+msgstr "Use EasyPay"
+
+msgid "Easy pay Entidade/Entity"
+msgstr "Easy pay Entidade/Entity"
+
+msgid "Easy pay User"
+msgstr "Easy pay User"
+
+msgid "Easy pay CIN"
+msgstr "Easy pay CIN"
+
+msgid "Payment In test Mode"
+msgstr "Payment In test Mode"
+
+msgid "User Multibanco option"
+msgstr "User Multibanco option"
+
+msgid "Setting Instruction"
+msgstr "Setting Instruction"
+
+msgid "Easy pay URL"
+msgstr "Easy pay URL"
+
+msgid "Facebook App URL"
+msgstr "Facebook App URL"
+
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+msgid "Google Clientid"
+msgstr "Google Clientid"
+
+msgid "First App title"
+msgstr "First App title"
+
+msgid "First App Url"
+msgstr "First App Url"
+
+msgid "Second App Title"
+msgstr "Second App Title"
+
+msgid "Second App Url"
+msgstr "Second App Url"
+
+msgid "Partner List"
+msgstr "Partner List"
+
+msgid "Being a partner"
+msgstr "Being a partner"
+
+msgid "Start now (or Registration)"
+msgstr "Start now (or Registration)"
+
+msgid "Partner registration"
+msgstr "Partner registration"
+
+msgid "Partner login"
+msgstr "Partner login"
+
+msgid "Services for partners"
+msgstr "Services for partners"
+
+msgid "Who we are"
+msgstr "Who we are"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Social responsibility"
+msgstr "Social responsibility"
+
+msgid "Press release"
+msgstr "Press release"
+
+msgid "Contacts"
+msgstr "Contacts"
+
+msgid "How it works"
+msgstr "How it works"
+
+msgid "FAQs"
+msgstr "FAQs"
+
+msgid "Data protection"
+msgstr "Data protection"
+
+msgid "Terms and conditions"
+msgstr "Terms and conditions"
+
+msgid "News"
+msgstr "News"
+
+msgid "Recruitment"
+msgstr "Recruitment"
+
+msgid "News Rss Feeds"
+msgstr "News Rss Feeds"
+
+msgid "Blogs Rss Feeds"
+msgstr "Blogs Rss Feeds"
+
+msgid "Sitemap"
+msgstr "Sitemap"
+
+msgid "Botoom News link"
+msgstr "Botoom News link"
+
+msgid "Web Site Map"
+msgstr "Web Site Map"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "User Start now"
+msgstr "User Start now"
+
+msgid "How to subscribe"
+msgstr "How to subscribe"
+
+msgid "Accounting references"
+msgstr "Accounting references"
+
+msgid "Home page highlight Reference"
+msgstr "Home page highlight Reference"
+
+msgid "Home page highlight Description"
+msgstr "Home page highlight Description"
+
+msgid "Go back to the top highlight Reference"
+msgstr "Go back to the top highlight Reference"
+
+msgid "Go back to the top highlight description"
+msgstr "Go back to the top highlight description"
+
+msgid "Activate Campaign Description"
+msgstr "Activate Campaign Description"
+
+msgid "Activate Campaign Reference"
+msgstr "Activate Campaign Reference"
